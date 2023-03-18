@@ -1,9 +1,17 @@
+- abdurehman mohamedsabir
+	{camerino: accepted}
+
 - abenezer tesfaye
 	recommendation
 	cv
+	{marche: }
 
 - ahmed kader
 	recommendation
+	{marche: }
+
+- amdebirhan wokeye
+	{camerino: accepted}
 
 - amenti daniel
 	
@@ -15,15 +23,16 @@
 	recommendation
 	entrance
 
-- arsema adane
+- arsema tesfaye
 	recommendation
-	passport
-	transcript
-	entrance
+	_email unverified
+	{camerino: }
+
 
 - asmamaw tamiru
 	cv
 	recommendation
+	{marche: }
 	
 - atsede degu
 	cv
@@ -33,19 +42,22 @@
 -bereket halgete
 	cv
 	recommendation
+	{marche: }
 	
 - biruktawit daniel
 	recommendation
-	
--bonsa debele
-	{marche: }
+	{march: }
+
+- bonsa debele
+	{marche: done}
 
 - dagem adane
 	cv
 	entrance
 
 - dagmawi ayele
-	cv 
+	cv
+	{marche: }
 
 - dawit gashaw
 	passport
@@ -57,7 +69,8 @@
 	entrance
 	transcript
 
-- gedion daniel
+- gedion daniel 
+	_email verification
 	{marche: }
 
 - hanan mohammed
@@ -67,6 +80,7 @@
 
 - ikran abdirashid
 	recommendation
+	{marche: }
 	
 - mahlet anteneh 
 	cv 
@@ -76,20 +90,36 @@
 - mahlet wendafrash
 	cv 
 	recommendation
+	{marche: }
 
 - mahlet zelalem
+	_email verification
 	{marche: }
+	{camerino: done}
 
 - mathias 
 	cv
 	entrance
 	recommendation
+
+- melkamu alemu
+	{camerino: accepted}
+
+-merem alye
+	_masters
+	{camerino: done}
 	
 - mihiretu adane
 	recommendation
+	{camerino: }
 
 - mikiyas shimels
-	{marche: }
+	{marche: done}
+
+-nebil mohammod
+	{camerino: done}
+	{messina: done}
+	{calabria: done}
 
 - nohamin yosef
 	cv
