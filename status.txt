@@ -14,9 +14,11 @@
 	{camerino: accepted}
 
 - amenti daniel
+	{messina: done} *2
 	
 - amanuel wogene
 	recommendation
+	{marche: }
 
 -amir meded
 	cv
@@ -25,8 +27,7 @@
 
 - arsema tesfaye
 	recommendation
-	_email unverified
-	{camerino: }
+	{camerino: done}
 
 
 - asmamaw tamiru
@@ -45,8 +46,7 @@
 	{marche: }
 	
 - biruktawit daniel
-	recommendation
-	{march: }
+	{marche: done}
 
 - bonsa debele
 	{marche: done}
@@ -70,8 +70,7 @@
 	transcript
 
 - gedion daniel 
-	_email verification
-	{marche: }
+	{marche: done}
 
 - hanan mohammed
 	cv 
@@ -83,7 +82,6 @@
 	{marche: }
 	
 - mahlet anteneh 
-	cv 
 	passport
 	recommendation
 	
@@ -123,19 +121,22 @@
 
 - nohamin yosef
 	cv
+	{marche: }
 
 - samrawit debebe
-	
+	{messina: done} *2
 
 - samuel wondesen
 	cv
 	recommendatison
+	{marche: }
 
 - selehadin kedir
 	cv
+	{marche: }
 
 - simret mebratu
-	{marche: }
+	{marche: done}
 
 - solomon assefa
 	cv
@@ -144,33 +145,40 @@
 
 - tamirat bekele
 	recommendation
+	{marche: }
 
 - taysen adinew
 	cv 
 	recommendation
+	{marche: }
 
 - wiesa robso
+	_email password
 	cv
 	recommendation
+	{marche: }
 
 - yared birhanu
 	recommendation
+	{marche: }
 	
 - yared yimenu 
 	cv
 	passport
 	
 - yohannes jima 
-	{cassino: pending}
+	{cassino: done}
 
 - Yonathan tesfaye
 	cv
+	{marche: }
 
 - Yonnas getnet
 	recommendation
+	{marche: }
 
 - zemicahel zeru
-	{marche: }
+	{marche: done}
 	
 	
 - 
