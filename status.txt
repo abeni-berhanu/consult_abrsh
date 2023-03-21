@@ -2,13 +2,13 @@
 	{camerino: accepted}
 
 - abenezer tesfaye
+	_duolingo
 	recommendation
-	cv
-	{marche: }
+	{marche: pending}
 
 - ahmed kader
 	recommendation
-	{marche: }
+	{marche: pending}
 
 - amdebirhan wokeye
 	{camerino: accepted}
@@ -17,11 +17,11 @@
 	{messina: done} *2
 	
 - amanuel wogene
+	_duolingo
 	recommendation
-	{marche: }
+	{marche: pending}
 
--amir meded
-	cv
+- amir meded
 	recommendation
 	entrance
 
@@ -31,19 +31,17 @@
 
 
 - asmamaw tamiru
-	cv
 	recommendation
-	{marche: }
+	{marche: pending}
 	
 - atsede degu
 	cv
 	recommendation
 	passport
 
--bereket halgete
-	cv
+- bereket halgete 
 	recommendation
-	{marche: }
+	{marche: pending}
 	
 - biruktawit daniel
 	{marche: done}
@@ -56,20 +54,27 @@
 	entrance
 
 - dagmawi ayele
+	_duolingo
 	cv
-	{marche: }
+	{marche: pending}
 
 - dawit gashaw
 	passport
 	recommendation
 
+- degu samuel 
+	recommendation
+	{marche: }
+
 - degsera girmaw
+	_SAT
 	cv 
 	recommendation
-	entrance
-	transcript
+	{camerino: done}
+
 
 - gedion daniel 
+	_duolingo
 	{marche: done}
 
 - hanan mohammed
@@ -77,25 +82,37 @@
 	recommendation
 	passport
 
+- hailemelekot allo
+	email
+	{marche: }	
+
 - ikran abdirashid
 	recommendation
-	{marche: }
+	{marche: pending}
 	
 - mahlet anteneh 
 	passport
 	recommendation
 	
 - mahlet wendafrash
+	_duolingo
 	cv 
 	recommendation
-	{marche: }
+	{marche: pending}
 
 - mahlet zelalem
+	_duolingo
 	_email verification
 	{marche: }
 	{camerino: done}
+- makida yitbarek
+	_duolingo
+	_SAT
+	email
+	{camerino: }
 
 - mathias 
+	_duolingo
 	cv
 	entrance
 	recommendation
@@ -103,7 +120,7 @@
 - melkamu alemu
 	{camerino: accepted}
 
--merem alye
+- merem alye
 	_masters
 	{camerino: done}
 	
@@ -114,38 +131,47 @@
 - mikiyas shimels
 	{marche: done}
 
--nebil mohammod
+- nebil mohammod
 	{camerino: done}
 	{messina: done}
 	{calabria: done}
 
 - nohamin yosef
 	cv
+	{marche: pending}
+- saliha haji
+	_duolingo
+	cv
+	recommendation
 	{marche: }
-
+	
 - samrawit debebe
 	{messina: done} *2
+
+- samuel weldeluel
+	_masters
 
 - samuel wondesen
 	cv
 	recommendatison
-	{marche: }
+	{marche: pending}
 
 - selehadin kedir
 	cv
-	{marche: }
+	{marche: pending}
 
 - simret mebratu
+	_duolingo
 	{marche: done}
 
 - solomon assefa
-	cv
+	email
 	passport
 	recommendation
 
 - tamirat bekele
 	recommendation
-	{marche: }
+	{marche: pending}
 
 - taysen adinew
 	cv 
@@ -156,28 +182,37 @@
 	_email password
 	cv
 	recommendation
-	{marche: }
+	{marche: not activated}
 
 - yared birhanu
+	_duolingo
 	recommendation
-	{marche: }
+	{marche: pending}
 	
 - yared yimenu 
 	cv
 	passport
 	
 - yohannes jima 
+	_duolingo
 	{cassino: done}
 
-- Yonathan tesfaye
+- yomiyu alemayehu
 	cv
-	{marche: }
-
-- Yonnas getnet
 	recommendation
 	{marche: }
 
+- Yonathan tesfaye
+	_duolingo
+	cv
+	{marche: pending}
+
+- Yonnas getnet
+	recommendation
+	{marche: pending}
+
 - zemicahel zeru
+	_duolingo
 	{marche: done}
 	
 	
