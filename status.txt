@@ -4,11 +4,11 @@
 - abenezer tesfaye
 	_duolingo
 	recommendation
-	{marche: pending}
+	{marche: done}
 
 - ahmed kader
 	recommendation
-	{marche: pending}
+	{marche: done}
 
 - amdebirhan wokeye
 	{camerino: accepted}
@@ -19,7 +19,7 @@
 - amanuel wogene
 	_duolingo
 	recommendation
-	{marche: pending}
+	{marche: done}
 
 - amir meded
 	recommendation
@@ -32,7 +32,7 @@
 
 - asmamaw tamiru
 	recommendation
-	{marche: pending}
+	{marche: done}
 	
 - atsede degu
 	cv
@@ -41,13 +41,22 @@
 
 - bereket halgete 
 	recommendation
-	{marche: pending}
-	
-- biruktawit daniel
 	{marche: done}
 
+- beza mamo
+	_masters
+	_marketing managment
+	_duolingo
+
+- biruhtesfa ambachew
+	_masters
+	_electrical power and control engineering
+	
+- biruktawit daniel
+	{marche: done} - mar 18
+
 - bonsa debele
-	{marche: done}
+	{marche: done} - mar 14
 
 - dagem adane
 	cv
@@ -55,8 +64,7 @@
 
 - dagmawi ayele
 	_duolingo
-	cv
-	{marche: pending}
+	{marche: done} - mar 21
 
 - dawit gashaw
 	passport
@@ -64,27 +72,35 @@
 
 - degu samuel 
 	recommendation
-	{marche: }
+	{marche: done}
 
 - degsera girmaw
 	_SAT
-	cv 
 	recommendation
-	{camerino: done}
+	{camerino: done} - mar 20
 
 
 - gedion daniel 
 	_duolingo
-	{marche: done}
+	{marche: done} - mar 18
 
-- hanan mohammed
+- goitom teklay
+	_masters
+	_civil and urban engineering
+	{marche: }
+
+- hanan mohammed	953077
 	cv 
 	recommendation
 	passport
 
 - hailemelekot allo
-	email
-	{marche: }	
+	{marche: done} mar 21	
+
+- heran bogale
+	_masters
+	_civil engineering
+	{marche: }
 
 - ikran abdirashid
 	recommendation
@@ -95,21 +111,18 @@
 	recommendation
 	
 - mahlet wendafrash
-	_duolingo
-	cv 
+	_duolingo 
 	recommendation
 	{marche: pending}
 
 - mahlet zelalem
 	_duolingo
-	_email verification
-	{marche: }
+	{marche: done}
 	{camerino: done}
 - makida yitbarek
 	_duolingo
 	_SAT
-	email
-	{camerino: }
+	{camerino: done}
 
 - mathias 
 	_duolingo
@@ -125,11 +138,12 @@
 	{camerino: done}
 	
 - mihiretu adane
+	passport
 	recommendation
 	{camerino: }
 
 - mikiyas shimels
-	{marche: done}
+	{marche: done} - mar 3
 
 - nebil mohammod
 	{camerino: done}
@@ -137,11 +151,10 @@
 	{calabria: done}
 
 - nohamin yosef
-	cv
-	{marche: pending}
+	{marche: done}
+
 - saliha haji
 	_duolingo
-	cv
 	recommendation
 	{marche: }
 	
@@ -151,18 +164,21 @@
 - samuel weldeluel
 	_masters
 
+- samuel weldeluel
+	_masters
+	_accounting and finance
+
 - samuel wondesen
 	cv
 	recommendatison
 	{marche: pending}
 
 - selehadin kedir
-	cv
-	{marche: pending}
+	{marche: done}
 
 - simret mebratu
 	_duolingo
-	{marche: done}
+	{marche: done} - mar 18
 
 - solomon assefa
 	email
@@ -171,15 +187,14 @@
 
 - tamirat bekele
 	recommendation
-	{marche: pending}
+	{marche: done}
 
 - taysen adinew
-	cv 
 	recommendation
 	{marche: }
 
 - wiesa robso
-	_email password
+	email password
 	cv
 	recommendation
 	{marche: not activated}
@@ -198,14 +213,12 @@
 	{cassino: done}
 
 - yomiyu alemayehu
-	cv
 	recommendation
 	{marche: }
 
 - Yonathan tesfaye
 	_duolingo
-	cv
-	{marche: pending}
+	{marche: done}
 
 - Yonnas getnet
 	recommendation
@@ -213,7 +226,7 @@
 
 - zemicahel zeru
 	_duolingo
-	{marche: done}
+	{marche: done} - mar 18
 	
 	
 - 
