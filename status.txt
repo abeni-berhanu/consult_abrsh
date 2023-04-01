@@ -14,61 +14,40 @@
 	{camerino: accepted}
 
 - amenti daniel
-	{messina: done} *2
+	{messina: rejected} *2
 	
 - amanuel wogene
 	_duolingo
 	recommendation
-	{marche: done}
-
-- amir meded
-	recommendation
-	entrance
+	{marche: accepted}
 
 - arsema tesfaye
 	recommendation
-	{camerino: done}
+	{camerino: rejected}
 
 
 - asmamaw tamiru
 	recommendation
 	{marche: done}
 	
-- atsede degu
-	cv
-	recommendation
-	passport
-
 - bereket halgete 
 	recommendation
 	{marche: done}
 
-- beza mamo
-	_masters
-	_marketing managment
-	_duolingo
+- bethelhem embibel
+	email
+	_ielts
+	{messina: }
 
-- biruhtesfa ambachew
-	_masters
-	_electrical power and control engineering
-	
 - biruktawit daniel
 	{marche: done} - mar 18
 
 - bonsa debele
-	{marche: done} - mar 14
-
-- dagem adane
-	cv
-	entrance
+	{marche: accepted}
 
 - dagmawi ayele
 	_duolingo
 	{marche: done} - mar 21
-
-- dawit gashaw
-	passport
-	recommendation
 
 - degu samuel 
 	recommendation
@@ -77,7 +56,7 @@
 - degsera girmaw
 	_SAT
 	recommendation
-	{camerino: done} - mar 20
+	{camerino: accepted}
 
 
 - gedion daniel 
@@ -87,12 +66,8 @@
 - goitom teklay
 	_masters
 	_civil and urban engineering
+	already created
 	{marche: }
-
-- hanan mohammed
-	cv 
-	recommendation
-	passport
 
 - hailemelekot allo
 	{marche: done} mar 21	
@@ -100,16 +75,23 @@
 - heran bogale
 	_masters
 	_civil engineering
-	{marche: }
+	{marche: done}
 
 - ikran abdirashid
 	recommendation
 	{marche: done}
+
+- leul negussie 
+	email
+	_masters 
+	_software engineering
+	{camerino: }
 	
 - mahlet anteneh 
-	passport
+	email
 	recommendation
-	
+	{marche: }
+
 - mahlet wendafrash
 	_duolingo 
 	recommendation
@@ -118,17 +100,12 @@
 - mahlet zelalem
 	_duolingo
 	{marche: done}
-	{camerino: done}
+	{camerino: rejected}
+
 - makida yitbarek
 	_duolingo
 	_SAT
 	{camerino: done}
-
-- mathias 
-	_duolingo
-	cv
-	entrance
-	recommendation
 
 - melkamu alemu
 	{camerino: accepted}
@@ -137,11 +114,6 @@
 	_masters
 	{camerino: done}
 	
-- mihiretu adane
-	passport
-	recommendation
-	{camerino: }
-
 - mikiyas shimels
 	{marche: done} - mar 3
 
@@ -150,6 +122,9 @@
 	{messina: done}
 	{calabria: done}
 
+- sadam kedir
+	recommendation
+	{camerino: done}
 - nohamin yosef
 	{marche: done}
 
@@ -161,12 +136,8 @@
 - samrawit debebe
 	{messina: done} *2
 
-- samuel weldeluel
-	_masters
-	_accounting and finance
-
 - samuel wondesen
-	cv
+	_duolingo
 	recommendatison
 	{marche: done}
 
@@ -177,11 +148,6 @@
 	_duolingo
 	{marche: done} - mar 18
 
-- solomon assefa
-	email
-	passport
-	recommendation
-
 - tamirat bekele
 	recommendation
 	{marche: done}
@@ -190,29 +156,33 @@
 	recommendation
 	{marche: done}
 
+- tsion andarge
+	_ielts
+	cv
+	{messina: }
+
 - wiesa robso
 	email password
 	cv
 	recommendation
 	{marche: not activated}
 
+- yakob yewendwosen
+	_ielts
+	{messina: }
+
 - yared birhanu
 	_duolingo
 	recommendation
 	{marche: done}
 	
-- yared yimenu 
-	cv
-	passport
-	
 - yohannes jima 
 	_duolingo
-	{cassino: done}
+	{cassino: rejected}
 
 - yomiyu alemayehu
-	comfirm account
 	recommendation
-	{marche: }
+	{marche: done}
 
 - Yonathan tesfaye
 	_duolingo
@@ -227,6 +197,52 @@
 	{marche: done} - mar 18
 	
 	
-- 
+
+
+
+- amir meded
+	recommendation
+	entrance
+
+- atsede degu
+	cv
+	recommendation
+	passport
+
+- dagem adane
+	cv
+	entrance
+
+- dawit gashaw
+	passport
+	recommendation
+
+- hanan mohammed
+	cv 
+	recommendation
+	passport
+
+- mathias 
+	_duolingo
+	cv
+	entrance
+	recommendation
+
+- mihiretu adane
+	passport
+	recommendation
+	{camerino: }
+
+- solomon assefa
+	email
+	passport
+	recommendation
+
+- yared yimenu 
+	cv
+	passport
+	
+
+
 
 
