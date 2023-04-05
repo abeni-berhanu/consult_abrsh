@@ -15,6 +15,7 @@
 
 - amenti daniel
 	{messina: rejected} *2
+	{marche: done}
 	
 - amanuel wogene
 	_duolingo
@@ -82,10 +83,9 @@
 	{marche: done}
 
 - leul negussie 
-	email
 	_masters 
 	_software engineering
-	{camerino: }
+	{camerino: done}
 	
 - mahlet anteneh 
 	email
@@ -105,7 +105,8 @@
 - makida yitbarek
 	_duolingo
 	_SAT
-	{camerino: done}
+	{camerino: rejected}
+	{marche: done}
 
 - melkamu alemu
 	{camerino: accepted}
@@ -124,7 +125,8 @@
 
 - sadam kedir
 	recommendation
-	{camerino: done}
+	{camerino: accepted}
+
 - nohamin yosef
 	{marche: done}
 
@@ -161,15 +163,15 @@
 	cv
 	{messina: }
 
-- wiesa robso
-	email password
+- wiesa robsoso
 	cv
 	recommendation
-	{marche: not activated}
+	{camerino: rejected}
+	{marche: pending}
 
 - yakob yewendwosen
 	_ielts
-	{messina: }
+	{messina: } account already present
 
 - yared birhanu
 	_duolingo
@@ -179,6 +181,7 @@
 - yohannes jima 
 	_duolingo
 	{cassino: rejected}
+	{marche: done}
 
 - yomiyu alemayehu
 	recommendation
@@ -197,6 +200,12 @@
 	{marche: done} - mar 18
 	
 	
+
+
+
+
+
+
 
 
 
