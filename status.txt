@@ -1,6 +1,11 @@
 - abdurehman mohamedsabir
 	{camerino: accepted}
 
+- abenezer adefris
+	email
+	_duolingo 110
+	{marche: }
+
 - abenezer tesfaye
 	_duolingo
 	recommendation
@@ -12,19 +17,25 @@
 
 - amdebirhan wokeye
 	{camerino: accepted}
+	{universitaly: taken}
 
 - amenti daniel
 	{messina: rejected} *2
 	{marche: done}
-	
+	{universitaly: pending}
+
 - amanuel wogene
 	_duolingo
 	recommendation
 	{marche: accepted}
+	{universitly: pending}
 
 - arsema tesfaye
+	_duolingo
 	recommendation
 	{camerino: rejected}
+	{marche: done}
+	{universitaly: pending}
 
 
 - asmamaw tamiru
@@ -36,7 +47,6 @@
 	{marche: done}
 
 - bethelhem embibel
-	email
 	_ielts
 	{messina: }
 
@@ -45,6 +55,7 @@
 
 - bonsa debele
 	{marche: accepted}
+	{universitaly: pending}
 
 - dagmawi ayele
 	_duolingo
@@ -58,6 +69,7 @@
 	_SAT
 	recommendation
 	{camerino: accepted}
+	{universitaly: pending}
 
 
 - gedion daniel 
@@ -65,12 +77,13 @@
 	{marche: done} - mar 18
 
 - goitom teklay
+	email
 	_masters
 	_civil and urban engineering
-	already created
 	{marche: }
 
 - hailemelekot allo
+	_duolingo
 	{marche: done} mar 21	
 
 - heran bogale
@@ -88,9 +101,8 @@
 	{camerino: done}
 	
 - mahlet anteneh 
-	email
 	recommendation
-	{marche: }
+	{marche: done}
 
 - mahlet wendafrash
 	_duolingo 
@@ -110,15 +122,22 @@
 
 - melkamu alemu
 	{camerino: accepted}
+	{universitaly: pending}
 
 - merem alye
 	_masters
 	{camerino: done}
 	
+- michael yeshitla
+	email
+	_sat
+	{marche: pending}
+
 - mikiyas shimels
 	{marche: done} - mar 3
 
 - nebil mohammod
+	_masters
 	{camerino: done}
 	{messina: done}
 	{calabria: done}
@@ -126,6 +145,7 @@
 - sadam kedir
 	recommendation
 	{camerino: accepted}
+	{universitaly: pending}
 
 - nohamin yosef
 	{marche: done}
@@ -159,9 +179,10 @@
 	{marche: done}
 
 - tsion andarge
+	email
 	_ielts
 	cv
-	{messina: }
+	{messina: pending}
 
 - wiesa robsoso
 	cv
@@ -172,6 +193,7 @@
 - yakob yewendwosen
 	_ielts
 	{messina: } account already present
+	{universitaly: pending}
 
 - yared birhanu
 	_duolingo
@@ -194,6 +216,11 @@
 - Yonnas getnet
 	recommendation
 	{marche: done}
+
+- Yordanos deribe
+	_ielts
+	{messina: pending}
+	{marche: pending}
 
 - zemicahel zeru
 	_duolingo
@@ -233,8 +260,6 @@
 
 - mathias 
 	_duolingo
-	cv
-	entrance
 	recommendation
 
 - mihiretu adane
