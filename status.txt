@@ -1,5 +1,6 @@
 - abdurehman mohamedsabir
 	{camerino: accepted}
+	{universitaly: pending}
 
 - abenezer adefris
 	email
@@ -9,15 +10,17 @@
 - abenezer tesfaye
 	_duolingo
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - ahmed kader
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - amdebirhan wokeye
 	{camerino: accepted}
-	{universitaly: taken}
+	{universitaly: present}
 
 - amenti daniel
 	{messina: rejected} *2
@@ -44,14 +47,17 @@
 	
 - bereket halgete 
 	recommendation
-	{marche: done}
+	{marche: rejected}
 
 - bethelhem embibel
-	_ielts
-	{messina: }
+	_SAT
+	{messina: rejected}
+	{marche: pending}
+	{universitaly: pending}
 
 - biruktawit daniel
-	{marche: done} - mar 18
+	{marche: accepted}
+	{universitaly: done}
 
 - bonsa debele
 	{marche: accepted}
@@ -59,11 +65,13 @@
 
 - dagmawi ayele
 	_duolingo
-	{marche: done} - mar 21
+	{marche: accepted} - mar 21
+	{universitaly: present}
 
 - degu samuel 
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - degsera girmaw
 	_SAT
@@ -75,6 +83,7 @@
 - gedion daniel 
 	_duolingo
 	{marche: done} - mar 18
+	{universitaly: accepted}
 
 - goitom teklay
 	email
@@ -84,7 +93,8 @@
 
 - hailemelekot allo
 	_duolingo
-	{marche: done} mar 21	
+	{marche: done} mar 21
+	{universitaly: pending}	
 
 - heran bogale
 	_masters
@@ -93,40 +103,48 @@
 
 - ikran abdirashid
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - leul negussie 
 	_masters 
 	_software engineering
 	{camerino: done}
+	{universitaly: pending}
 	
 - mahlet anteneh 
 	recommendation
 	{marche: done}
+	{universitaly: pending}
 
 - mahlet wendafrash
 	_duolingo 
 	recommendation
-	{marche: done}
+	{marche: rejected}
+	{universitaly: pending}
 
 - mahlet zelalem
 	_duolingo
-	{marche: done}
+	{marche: accepted}
 	{camerino: rejected}
+	{universitaly: pending} - recovery email not changed
 
 - makida yitbarek
 	_duolingo
 	_SAT
 	{camerino: rejected}
 	{marche: done}
+	{universitaly: pending}
 
 - melkamu alemu
 	{camerino: accepted}
 	{universitaly: pending}
 
 - merem alye
+	email password
 	_masters
 	{camerino: done}
+	{universitaly: }
 	
 - michael yeshitla
 	email
@@ -134,13 +152,15 @@
 	{marche: pending}
 
 - mikiyas shimels
-	{marche: done} - mar 3
+	{marche: accepted}
+	{universitaly: pending}
 
 - nebil mohammod
 	_masters
 	{camerino: done}
 	{messina: done}
 	{calabria: done}
+	{universitaly: pending}
 
 - sadam kedir
 	recommendation
@@ -153,22 +173,26 @@
 - saliha haji
 	_duolingo
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 	
 - samrawit debebe
 	{messina: done} *2
+	{universitaly: } - email verify
 
 - samuel wondesen
 	_duolingo
 	recommendatison
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - selehadin kedir
 	{marche: done}
 
 - simret mebratu
 	_duolingo
-	{marche: done} - mar 18
+	{marche: accepted} - mar 18
+	{universitaly: pending}
 
 - tamirat bekele
 	recommendation
@@ -176,7 +200,8 @@
 
 - taysen adinew
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{university: pending}
 
 - tsion andarge
 	email
@@ -189,6 +214,7 @@
 	recommendation
 	{camerino: rejected}
 	{marche: pending}
+	{universitaly: pending} - password not changed
 
 - yakob yewendwosen
 	_ielts
@@ -198,20 +224,24 @@
 - yared birhanu
 	_duolingo
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 	
 - yohannes jima 
 	_duolingo
 	{cassino: rejected}
 	{marche: done}
+	{universitaly: pending}
 
 - yomiyu alemayehu
 	recommendation
-	{marche: done}
+	{marche: accepted}
+	{universitaly: pending}
 
 - Yonathan tesfaye
 	_duolingo
 	{marche: done}
+	{universitaly: present}
 
 - Yonnas getnet
 	recommendation
@@ -221,11 +251,12 @@
 	_ielts
 	{messina: pending}
 	{marche: pending}
+	{universitaly: pending} change password
 
 - zemicahel zeru
 	_duolingo
-	{marche: done} - mar 18
-	
+	{marche: accepted} - mar 18
+	{universitaly: pending}
 	
 
 
