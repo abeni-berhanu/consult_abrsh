@@ -1,37 +1,14 @@
-- abdurehman mohamedsabir
-	{camerino: accepted}
-	{universitaly: pending}
-
 - abenezer adefris
 	email
 	_duolingo 110
 	{marche: }
-
-- abenezer tesfaye
-	_duolingo
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
-
-- ahmed kader
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
-
-- amdebirhan wokeye
-	{camerino: accepted}
-	{universitaly: present}
 
 - amenti daniel
 	{messina: rejected} *2
 	{marche: done}
 	{universitaly: pending}
 
-- amanuel wogene
-	_duolingo
-	recommendation
-	{marche: accepted}
-	{universitly: pending}
+- amir meded
 
 - arsema tesfaye
 	_duolingo
@@ -39,7 +16,6 @@
 	{camerino: rejected}
 	{marche: done}
 	{universitaly: pending}
-
 
 - asmamaw tamiru
 	recommendation
@@ -52,38 +28,14 @@
 - bethelhem embibel
 	_SAT
 	{messina: rejected}
-	{marche: pending}
-	{universitaly: pending}
+	{marche: done}
+	{universitaly: pending} 
 
-- biruktawit daniel
-	{marche: accepted}
-	{universitaly: done}
+- euael adane
+	
 
-- bonsa debele
-	{marche: accepted}
-	{universitaly: pending}
-
-- dagmawi ayele
-	_duolingo
-	{marche: accepted} - mar 21
-	{universitaly: present}
-
-- degu samuel 
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
-
-- degsera girmaw
-	_SAT
-	recommendation
-	{camerino: accepted}
-	{universitaly: pending}
-
-
-- gedion daniel 
-	_duolingo
-	{marche: done} - mar 18
-	{universitaly: accepted}
+- esrom solomon
+	_ielts
 
 - goitom teklay
 	email
@@ -91,20 +43,10 @@
 	_civil and urban engineering
 	{marche: }
 
-- hailemelekot allo
-	_duolingo
-	{marche: done} mar 21
-	{universitaly: pending}	
-
 - heran bogale
 	_masters
 	_civil engineering
 	{marche: done}
-
-- ikran abdirashid
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
 
 - leul negussie 
 	_masters 
@@ -123,11 +65,6 @@
 	{marche: rejected}
 	{universitaly: pending}
 
-- mahlet zelalem
-	_duolingo
-	{marche: accepted}
-	{camerino: rejected}
-	{universitaly: pending} - recovery email not changed
 
 - makida yitbarek
 	_duolingo
@@ -136,9 +73,9 @@
 	{marche: done}
 	{universitaly: pending}
 
-- melkamu alemu
-	{camerino: accepted}
-	{universitaly: pending}
+- mathias 
+	_duolingo
+	recommendation
 
 - merem alye
 	email password
@@ -146,14 +83,13 @@
 	{camerino: done}
 	{universitaly: }
 	
+- meryem mensur
+	_duolingo 120
+
 - michael yeshitla
 	email
 	_sat
 	{marche: pending}
-
-- mikiyas shimels
-	{marche: accepted}
-	{universitaly: pending}
 
 - nebil mohammod
 	_masters
@@ -162,46 +98,28 @@
 	{calabria: done}
 	{universitaly: pending}
 
-- sadam kedir
-	recommendation
-	{camerino: accepted}
-	{universitaly: pending}
 
 - nohamin yosef
-	{marche: done}
-
-- saliha haji
-	_duolingo
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
+	_duolingo 105
+	{marche: rejected}
 	
 - samrawit debebe
 	{messina: done} *2
 	{universitaly: } - email verify
 
-- samuel wondesen
-	_duolingo
-	recommendatison
-	{marche: accepted}
-	{universitaly: pending}
-
 - selehadin kedir
 	{marche: done}
 
-- simret mebratu
-	_duolingo
-	{marche: accepted} - mar 18
-	{universitaly: pending}
+- sesen mesfin
 
+
+- solomon assefa
+	email
+	recommendation
+	
 - tamirat bekele
 	recommendation
 	{marche: done}
-
-- taysen adinew
-	recommendation
-	{marche: accepted}
-	{university: pending}
 
 - tsion andarge
 	email
@@ -221,21 +139,10 @@
 	{messina: } account already present
 	{universitaly: pending}
 
-- yared birhanu
-	_duolingo
-	recommendation
-	{marche: accepted}
-	{universitaly: pending}
-	
 - yohannes jima 
 	_duolingo
 	{cassino: rejected}
 	{marche: done}
-	{universitaly: pending}
-
-- yomiyu alemayehu
-	recommendation
-	{marche: accepted}
 	{universitaly: pending}
 
 - Yonathan tesfaye
@@ -253,11 +160,6 @@
 	{marche: pending}
 	{universitaly: pending} change password
 
-- zemicahel zeru
-	_duolingo
-	{marche: accepted} - mar 18
-	{universitaly: pending}
-	
 
 
 
@@ -267,9 +169,6 @@
 
 
 
-- amir meded
-	recommendation
-	entrance
 
 - atsede degu
 	cv
@@ -289,19 +188,10 @@
 	recommendation
 	passport
 
-- mathias 
-	_duolingo
-	recommendation
-
 - mihiretu adane
 	passport
 	recommendation
 	{camerino: }
-
-- solomon assefa
-	email
-	passport
-	recommendation
 
 - yared yimenu 
 	cv

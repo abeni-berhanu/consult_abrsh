@@ -1,0 +1,125 @@
+- abdurehman mohamedsabir
+	_duolingo
+	{camerino: accepted}
+	{universitaly: pending}
+
+- abenezer tesfaye
+	_duolingo
+	recommendation
+	{marche: accepted}
+	{universitaly: pending}
+
+- ahmed kader
+	recommendation
+	{marche: accepted}
+	{universitaly: pending}
+
+- amdebirhan wokeye
+	{camerino: accepted}
+	{universitaly: present}
+
+- amanuel wogene
+	_duolingo
+	{marche: accepted}
+	{universitly: pending}
+
+- dagmawi ayele
+	_duolingo
+	{marche: accepted} - mar 21
+	{universitaly: present}
+
+- degu samuel 
+	{marche: accepted}
+	{universitaly: pending}
+
+- degsera girmaw
+	_SAT
+	{camerino: accepted}
+	{universitaly: pending}
+	
+- gedion daniel 
+	_duolingo
+	{marche: accepted} - mar 18
+	{universitaly: accepted}
+
+- hailemelekot allo
+	_duolingo
+	{marche: accepted} mar 21
+	{universitaly: pending}	
+
+- ikran abdirashid
+	recommendation
+	{marche: accepted}
+	{universitaly: pending}
+
+- mahlet zelalem
+	_duolingo
+	{marche: accepted}
+	{universitaly: pending} - recovery email not changed
+
+- melkamu alemu
+	{camerino: accepted}
+	{universitaly: pending}
+
+- mikiyas shimels
+	{marche: accepted}
+	{universitaly: pending}
+
+- sadam kedir
+	recommendation
+	{camerino: accepted}
+	{universitaly: pending}
+
+- saliha haji
+	_duolingo
+	recommendation
+	{marche: accepted}
+	{universitaly: pending}
+
+- samuel wondesen
+	_duolingo
+	{marche: accepted}
+	{universitaly: pending}
+
+- simret mebratu
+	_duolingo
+	{marche: accepted} - mar 18
+	{universitaly: pending}
+
+- taysen adinew
+	recommendation
+	{marche: accepted}
+	{university: pending}
+
+- yared birhanu
+	_duolingo
+	{marche: accepted}
+	{universitaly: pending}
+
+- yomiyu alemayehu
+	recommendation
+	{marche: accepted}
+	{universitaly: pending}
+
+- zemicahel zeru
+	_duolingo
+	{marche: accepted} - mar 18
+	{universitaly: pending}
+	
+
+
+
+---------pre enrolled--------------
+
+
+- biruktawit daniel
+	{marche: accepted}
+	{universitaly: done}
+
+- bonsa debele
+	{marche: accepted}
+	{universitaly: done}
+
+
+
+
