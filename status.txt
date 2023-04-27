@@ -1,7 +1,7 @@
 - abenezer adefris
-	email
 	_duolingo 110
 	{marche: }
+	{universitaly: pending}
 
 - amenti daniel
 	{messina: rejected} *2
@@ -11,7 +11,7 @@
 - amir meded
 
 - arsema tesfaye
-	_duolingo
+	_duolingo 120
 	recommendation
 	{camerino: rejected}
 	{marche: done}
@@ -31,11 +31,19 @@
 	{marche: done}
 	{universitaly: pending} 
 
-- euael adane
+- biruk elias
+	{universitaly: pending}
 	
+- euael adane
+	_duolingo 125
+	{universitaly: pending}	
 
 - esrom solomon
 	_ielts
+	{universitaly: pending}
+
+- genet getachew
+	{universitaly: }
 
 - goitom teklay
 	email
@@ -60,36 +68,42 @@
 	{universitaly: pending}
 
 - mahlet wendafrash
-	_duolingo 
+	_duolingo 110
 	recommendation
 	{marche: rejected}
 	{universitaly: pending}
 
 
 - makida yitbarek
-	_duolingo
+	_duolingo 145
 	_SAT
 	{camerino: rejected}
 	{marche: done}
 	{universitaly: pending}
 
-- mathias 
+- mathias yenenew
+	email 130
 	_duolingo
 	recommendation
+
+- melkamu alemu
+	{camerino: accepted} not interested
+	{marche: }
+	{universitaly: pending}
 
 - merem alye
 	email password
 	_masters
 	{camerino: done}
-	{universitaly: }
 	
 - meryem mensur
 	_duolingo 120
+	{universitaly: pending}
 
 - michael yeshitla
 	email
 	_sat
-	{marche: pending}
+	{marche:}
 
 - nebil mohammod
 	_masters
@@ -102,20 +116,15 @@
 - nohamin yosef
 	_duolingo 105
 	{marche: rejected}
-	
-- samrawit debebe
-	{messina: done} *2
-	{universitaly: } - email verify
 
 - selehadin kedir
 	{marche: done}
 
 - sesen mesfin
-
+	{universitaly: pending}
 
 - solomon assefa
-	email
-	recommendation
+	{universitaly: pending}
 	
 - tamirat bekele
 	recommendation
@@ -126,6 +135,9 @@
 	_ielts
 	cv
 	{messina: pending}
+
+- webi jaleta
+	{universitaly: pending}
 
 - wiesa robsoso
 	cv
@@ -139,14 +151,17 @@
 	{messina: } account already present
 	{universitaly: pending}
 
+- yiheyis alemu
+	{universitaly: pending}
+
 - yohannes jima 
-	_duolingo
+	_duolingo 105
 	{cassino: rejected}
 	{marche: done}
 	{universitaly: pending}
 
 - Yonathan tesfaye
-	_duolingo
+	_duolingo 115
 	{marche: done}
 	{universitaly: present}
 
@@ -156,9 +171,9 @@
 
 - Yordanos deribe
 	_ielts
-	{messina: pending}
+	{messina: done}
 	{marche: pending}
-	{universitaly: pending} change password
+	{universitaly: pending}
 
 
 

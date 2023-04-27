@@ -1,10 +1,6 @@
-- abdurehman mohamedsabir
-	_duolingo
-	{camerino: accepted}
-	{universitaly: pending}
 
 - abenezer tesfaye
-	_duolingo
+	_duolingo 105
 	recommendation
 	{marche: accepted}
 	{universitaly: pending}
@@ -15,16 +11,17 @@
 	{universitaly: pending}
 
 - amdebirhan wokeye
+	duolingo 105
 	{camerino: accepted}
 	{universitaly: present}
 
 - amanuel wogene
-	_duolingo
+	_duolingo 110
 	{marche: accepted}
 	{universitly: pending}
 
 - dagmawi ayele
-	_duolingo
+	_duolingo 115
 	{marche: accepted} - mar 21
 	{universitaly: present}
 
@@ -32,18 +29,8 @@
 	{marche: accepted}
 	{universitaly: pending}
 
-- degsera girmaw
-	_SAT
-	{camerino: accepted}
-	{universitaly: pending}
-	
-- gedion daniel 
-	_duolingo
-	{marche: accepted} - mar 18
-	{universitaly: accepted}
-
 - hailemelekot allo
-	_duolingo
+	_duolingo 120
 	{marche: accepted} mar 21
 	{universitaly: pending}	
 
@@ -53,13 +40,9 @@
 	{universitaly: pending}
 
 - mahlet zelalem
-	_duolingo
+	_duolingo 125
 	{marche: accepted}
 	{universitaly: pending} - recovery email not changed
-
-- melkamu alemu
-	{camerino: accepted}
-	{universitaly: pending}
 
 - mikiyas shimels
 	{marche: accepted}
@@ -71,18 +54,22 @@
 	{universitaly: pending}
 
 - saliha haji
-	_duolingo
+	_duolingo 110
 	recommendation
 	{marche: accepted}
 	{universitaly: pending}
 
+- samrawit debebe
+	{messina: accepted}
+	{universitaly: }
+
 - samuel wondesen
-	_duolingo
+	_duolingo 115
 	{marche: accepted}
 	{universitaly: pending}
 
 - simret mebratu
-	_duolingo
+	_duolingo 125
 	{marche: accepted} - mar 18
 	{universitaly: pending}
 
@@ -92,7 +79,7 @@
 	{university: pending}
 
 - yared birhanu
-	_duolingo
+	_duolingo 100
 	{marche: accepted}
 	{universitaly: pending}
 
@@ -102,7 +89,7 @@
 	{universitaly: pending}
 
 - zemicahel zeru
-	_duolingo
+	_duolingo 115
 	{marche: accepted} - mar 18
 	{universitaly: pending}
 	
@@ -112,6 +99,10 @@
 ---------pre enrolled--------------
 
 
+- abdurehman mohamedsabir
+	{camerino: accepted}
+	{universitaly: done}
+
 - biruktawit daniel
 	{marche: accepted}
 	{universitaly: done}
@@ -120,6 +111,15 @@
 	{marche: accepted}
 	{universitaly: done}
 
-
+- degsera girmaw
+	_duolingo 115
+	_SAT
+	{camerino: accepted}
+	{universitaly: pending}
+	
+- gedion daniel 
+	_duolingo 105
+	{marche: accepted} - mar 18
+	{universitaly: pending}
 
 
