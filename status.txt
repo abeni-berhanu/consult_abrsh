@@ -1,6 +1,6 @@
-- abenezer adefris
+- abenezer adefris 476
 	_duolingo 110
-	{marche: }
+	{marche: done}
 	{universitaly: pending}
 
 - amenti daniel
@@ -8,7 +8,7 @@
 	{marche: done}
 	{universitaly: pending}
 
-- amir meded
+- amir meded 365
 
 - arsema tesfaye
 	_duolingo 120
@@ -17,11 +17,11 @@
 	{marche: done}
 	{universitaly: pending}
 
-- asmamaw tamiru
+- asmamaw tamiru 441
 	recommendation
 	{marche: done}
 	
-- bereket halgete 
+- bereket halgete 334
 	recommendation
 	{marche: rejected}
 
@@ -31,25 +31,23 @@
 	{marche: done}
 	{universitaly: pending} 
 
-- biruk elias
+- biruk elias 608
+	{marche: done}
 	{universitaly: pending}
 	
 - euael adane
 	_duolingo 125
+	{marche: done}
 	{universitaly: pending}	
 
 - esrom solomon
 	_ielts
+	{messina: done}
 	{universitaly: pending}
 
 - genet getachew
-	{universitaly: }
-
-- goitom teklay
-	email
-	_masters
-	_civil and urban engineering
-	{marche: }
+	{marche: done}
+	{universitaly: pending}
 
 - heran bogale
 	_masters
@@ -59,7 +57,8 @@
 - leul negussie 
 	_masters 
 	_software engineering
-	{camerino: done}
+	{camerino: rejected}
+	{ferarra: done}
 	{universitaly: pending}
 	
 - mahlet anteneh 
@@ -82,17 +81,17 @@
 	{universitaly: pending}
 
 - mathias yenenew
-	email 130
-	_duolingo
+	_duolingo 130
 	recommendation
+	{marche: done}
+	{universitaly: pending}
 
 - melkamu alemu
 	{camerino: accepted} not interested
-	{marche: }
+	{marche: done}
 	{universitaly: pending}
 
 - merem alye
-	email password
 	_masters
 	{camerino: done}
 	
@@ -101,19 +100,18 @@
 	{universitaly: pending}
 
 - michael yeshitla
-	email
 	_sat
-	{marche:}
+	{marche: done}
 
 - nebil mohammod
 	_masters
-	{camerino: done}
+	{camerino: accepted}
 	{messina: done}
 	{calabria: done}
 	{universitaly: pending}
 
 
-- nohamin yosef
+- nohamin yosef 347
 	_duolingo 105
 	{marche: rejected}
 
@@ -121,9 +119,11 @@
 	{marche: done}
 
 - sesen mesfin
+	{marche: done}
 	{universitaly: pending}
 
 - solomon assefa
+	{marche: done}
 	{universitaly: pending}
 	
 - tamirat bekele
@@ -131,28 +131,30 @@
 	{marche: done}
 
 - tsion andarge
-	email
 	_ielts
 	cv
-	{messina: pending}
-
-- webi jaleta
+	{messina: done}
 	{universitaly: pending}
 
-- wiesa robsoso
+- webi jaleta 434
+	{marche: done}
+	{universitaly: pending}
+
+- wiesa robsoso 486
 	cv
 	recommendation
 	{camerino: rejected}
-	{marche: pending}
+	{marche: done}
 	{universitaly: pending} - password not changed
 
-- yakob yewendwosen
+- yakob yewendwosen 330
 	_ielts
 	{messina: } account already present
 	{universitaly: pending}
 
 - yiheyis alemu
-	{universitaly: pending}
+	{marche: done}
+	{universitaly: done}
 
 - yohannes jima 
 	_duolingo 105
@@ -165,7 +167,7 @@
 	{marche: done}
 	{universitaly: present}
 
-- Yonnas getnet
+- Yonnas getnet 487
 	recommendation
 	{marche: done}
 
@@ -194,7 +196,7 @@
 	cv
 	entrance
 
-- dawit gashaw
+- dawit gashaw 414
 	passport
 	recommendation
 
