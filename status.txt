@@ -1,190 +1,119 @@
-- abenezer adefris 476
+- abenezer adefris 476	//
 	_duolingo 110
 	{marche: done}
 	{universitaly: pending}
 
-- amenti daniel
-	{messina: rejected} *2
-	{marche: done}
-	{universitaly: pending}
-
-- amir meded 365
-
-- arsema tesfaye
-	_duolingo 120
-	recommendation
-	{camerino: rejected}
+- alazar zerihun	//
 	{marche: done}
 	{universitaly: pending}
 
 - asmamaw tamiru 441
 	recommendation
 	{marche: done}
-	
-- bereket halgete 334
-	recommendation
-	{marche: rejected}
 
-- bethelhem embibel
-	_SAT
-	{messina: rejected}
-	{marche: done}
-	{universitaly: pending} 
-
-- biruk elias 608
+- biruk elias 608 	//
 	{marche: done}
 	{universitaly: pending}
 	
-- euael adane
+- euael adane	 //
 	_duolingo 125
 	{marche: done}
 	{universitaly: pending}	
 
-- esrom solomon
+- esrom solomon		//
 	_ielts
 	{messina: done}
 	{universitaly: pending}
 
-- genet getachew
+- feven moges
 	{marche: done}
 	{universitaly: pending}
 
-- heran bogale
+- genet getachew	//
+	{marche: done}
+	{universitaly: pending}
+
+- heran bogale 	//
 	_masters
 	_civil engineering
 	{marche: done}
 
-- leul negussie 
+- leul negussie 	//
 	_masters 
 	_software engineering
 	{camerino: rejected}
 	{ferarra: done}
 	{universitaly: pending}
-	
-- mahlet anteneh 
-	recommendation
-	{marche: done}
-	{universitaly: pending}
 
-- mahlet wendafrash
-	_duolingo 110
-	recommendation
-	{marche: rejected}
-	{universitaly: pending}
-
-
-- makida yitbarek
-	_duolingo 145
-	_SAT
-	{camerino: rejected}
-	{marche: done}
-	{universitaly: pending}
-
-- mathias yenenew
+- mathias yenenew	//
 	_duolingo 130
 	recommendation
 	{marche: done}
 	{universitaly: pending}
 
-- melkamu alemu
+- melkamu alemu 	//
 	{camerino: accepted} not interested
 	{marche: done}
 	{universitaly: pending}
 
-- merem alye
+- merem alye 	//
 	_masters
 	{camerino: done}
 	
-- meryem mensur
+- meryem mensur 403 //
 	_duolingo 120
 	{universitaly: pending}
 
-- michael yeshitla
+- michael yeshitla	//
 	_sat
 	{marche: done}
 
-- nebil mohammod
-	_masters
-	{camerino: accepted}
-	{messina: done}
-	{calabria: done}
-	{universitaly: pending}
-
-
-- nohamin yosef 347
-	_duolingo 105
-	{marche: rejected}
-
-- selehadin kedir
-	{marche: done}
-
-- sesen mesfin
+- nuhamin gebreselasie
 	{marche: done}
 	{universitaly: pending}
 
-- solomon assefa
+- sesen mesfin	//
 	{marche: done}
 	{universitaly: pending}
-	
-- tamirat bekele
-	recommendation
-	{marche: done}
 
-- tsion andarge
+- solomon assefa 	//
+	{marche: done}
+	{universitaly: pending}
+
+- tsion andarge		//
 	_ielts
 	cv
 	{messina: done}
 	{universitaly: pending}
 
-- webi jaleta 434
+- webi jaleta 434	//
 	{marche: done}
 	{universitaly: pending}
 
-- wiesa robsoso 486
+- wiesa robsoso 486	//
 	cv
 	recommendation
 	{camerino: rejected}
 	{marche: done}
 	{universitaly: pending} - password not changed
 
-- yakob yewendwosen 330
+- yakob yewendwosen 330		//
 	_ielts
 	{messina: } account already present
 	{universitaly: pending}
 
-- yiheyis alemu
+- yiheyis alemu 	//
 	{marche: done}
 	{universitaly: done}
 
-- yohannes jima 
-	_duolingo 105
-	{cassino: rejected}
-	{marche: done}
-	{universitaly: pending}
-
-- Yonathan tesfaye
-	_duolingo 115
-	{marche: done}
-	{universitaly: present}
-
-- Yonnas getnet 487
-	recommendation
-	{marche: done}
-
-- Yordanos deribe
+- Yordanos deribe	//
 	_ielts
 	{messina: done}
 	{marche: pending}
 	{universitaly: pending}
 
 
-
-
-
-
-
-
-
+++++++++++++++++++++++++++++++++++++++++
 
 
 - atsede degu
@@ -213,8 +142,3 @@
 - yared yimenu 
 	cv
 	passport
-	
-
-
-
-

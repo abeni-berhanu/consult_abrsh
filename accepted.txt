@@ -1,16 +1,20 @@
 
 - ahmed kader
-	recommendation
 	{marche: accepted}
 	{universitaly: pending}
 
-- sadam kedir
-	recommendation
-	{camerino: accepted}
+- arsema tesfaye
+	{marche: accepted}
+	{universitaly: done}
+
+- mahlet anteneh 
+	{marche: accepted}
 	{universitaly: pending}
 
+- selehadin kedir
+	{marche: accepted}
+
 - yomiyu alemayehu
-	recommendation
 	{marche: accepted}
 	{universitaly: pending}
 
@@ -26,19 +30,24 @@
 
 
 - abenezer tesfaye
-	_duolingo 105
-	recommendation
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 - abdurehman mohamedsabir
 	{camerino: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 - amanuel wogene
-	_duolingo 110
 	{marche: accepted}
-	{universitly: done}
+	{universitly: accepted}
+
+- amenti daniel
+	{marche: accepted}
+	{universitaly: done}
+	
+- bethelhem embibel  
+	{marche: accepted}
+	{universitaly: done} 
 
 - biruktawit daniel
 	{marche: accepted}
@@ -56,34 +65,38 @@
 
 - degu samuel 
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 	
 - gedion daniel 
-	_duolingo 105
-	{marche: accepted} - mar 18
-	{universitaly: done}
+	{marche: accepted}
+	{universitaly: accepted}
 
 - hailemelekot allo
-	_duolingo 120
-	{marche: accepted} mar 21
-	{universitaly: done}	
+	{marche: accepted}
+	{universitaly: accepted}	
 
 - ikran abdirashid
-	recommendation
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 - mahlet zelalem
-	_duolingo 125
 	{marche: accepted}
-	{universitaly: done} - recovery email not changed
+	{universitaly: accepted} - recovery email not changed
+
+- makida yitbarek
+	{marche: accepted}
+	{universitaly: done}
 
 - mikiyas shimels
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 - nebil mohammod
 	_masters
+	{camerino: accepted}
+	{universitaly: accepted}
+
+- sadam kedir
 	{camerino: accepted}
 	{universitaly: accepted}
 
@@ -92,23 +105,31 @@
 	{universitaly: done}
 
 - saliha haji
-	_duolingo 110
+	{marche: accepted}
+	{universitaly: accepted}
+
+- samuel wondesen
+	{marche: accepted}
+	{universitaly: accepted}
+
+- simret mebratu
+	{marche: accepted}
+	{universitaly: accepted}
+	
+- tamirat bekele
 	recommendation
 	{marche: accepted}
 	{universitaly: done}
 
-- samuel wondesen
-	_duolingo 115
-	{marche: accepted}
-	{universitaly: done}
-
-- simret mebratu
-	_duolingo 125
-	{marche: accepted}
-	{universitaly: done}
-
 - yared birhanu
-	_duolingo 100
 	{marche: accepted}
 	{universitaly: done}
 
+- yohannes jima
+	{marche: accepted}
+	{universitaly: done}
+
+
+- Yonnas getnet 487
+	{marche: accepted}
+	{universitaly: done}
