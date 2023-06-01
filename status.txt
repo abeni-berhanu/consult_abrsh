@@ -1,7 +1,3 @@
-- abenezer adefris 476	//
-	_duolingo 110
-	{marche: done}
-	{universitaly: pending}
 
 - alazar zerihun	//
 	{marche: done}
@@ -10,15 +6,6 @@
 - asmamaw tamiru 441
 	recommendation
 	{marche: done}
-
-- biruk elias 608 	//
-	{marche: done}
-	{universitaly: pending}
-	
-- euael adane	 //
-	_duolingo 125
-	{marche: done}
-	{universitaly: pending}	
 
 - esrom solomon		//
 	_ielts
@@ -29,31 +16,11 @@
 	{marche: done}
 	{universitaly: pending}
 
-- genet getachew	//
-	{marche: done}
-	{universitaly: pending}
-
-- heran bogale 	//
-	_masters
-	_civil engineering
-	{marche: done}
-
 - leul negussie 	//
 	_masters 
 	_software engineering
 	{camerino: rejected}
-	{ferarra: done}
-	{universitaly: pending}
-
-- mathias yenenew	//
-	_duolingo 130
-	recommendation
-	{marche: done}
-	{universitaly: pending}
-
-- melkamu alemu 	//
-	{camerino: accepted} not interested
-	{marche: done}
+	{ferarra: rejected}
 	{universitaly: pending}
 
 - merem alye 	//
@@ -66,17 +33,11 @@
 
 - michael yeshitla	//
 	_sat
-	{marche: done}
+	_duolingo
+	{cassino: doing} data science
+	{marche: rejected}
 
 - nuhamin gebreselasie
-	{marche: done}
-	{universitaly: pending}
-
-- sesen mesfin	//
-	{marche: done}
-	{universitaly: pending}
-
-- solomon assefa 	//
 	{marche: done}
 	{universitaly: pending}
 
@@ -86,31 +47,14 @@
 	{messina: done}
 	{universitaly: pending}
 
-- webi jaleta 434	//
-	{marche: done}
-	{universitaly: pending}
-
-- wiesa robsoso 486	//
-	cv
-	recommendation
-	{camerino: rejected}
-	{marche: done}
-	{universitaly: pending} - password not changed
-
 - yakob yewendwosen 330		//
 	_ielts
 	{messina: } account already present
 	{universitaly: pending}
 
 - yiheyis alemu 	//
-	{marche: done}
+	{marche: rejected}
 	{universitaly: done}
-
-- Yordanos deribe	//
-	_ielts
-	{messina: done}
-	{marche: pending}
-	{universitaly: pending}
 
 
 ++++++++++++++++++++++++++++++++++++++++

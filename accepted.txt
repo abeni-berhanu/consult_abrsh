@@ -1,4 +1,11 @@
 
+
+- abenezer adefris
+	_duolingo 110
+	{marche: accepted}
+	{cassino: doing} data science
+	{universitaly: pending}
+
 - ahmed kader
 	{marche: accepted}
 	{universitaly: pending}
@@ -7,15 +14,66 @@
 	{marche: accepted}
 	{universitaly: done}
 
+- biruk elias 608
+	{marche: accepted}
+	{universitaly: pending}
+	
+- euael adane
+	_duolingo 125
+	{marche: accepted}
+	{cassino : doing} industrial
+	{universitaly: pending}	
+
+- genet getachew
+	{marche: accepted}
+	{universitaly: pending}
+
+- heran bogale]
+	_masters
+	_civil engineering
+	{marche: accepted}
+
 - mahlet anteneh 
+	{marche: accepted}
+	{universitaly: pending}
+
+- mathias yenenew
+	_duolingo 130
+	{marche: accepted}
+	{cassino: doing} industrial
+	{universitaly: pending}
+
+- melkamu alemu
+	{camerino: accepted} not interested
 	{marche: accepted}
 	{universitaly: pending}
 
 - selehadin kedir
 	{marche: accepted}
 
+- sesen mesfin
+	{marche: accepted}
+	{universitaly: pending}
+
+- solomon assefa
+	{marche: accepted}
+	{universitaly: pending}
+
 - yomiyu alemayehu
 	{marche: accepted}
+	{universitaly: pending}
+
+- webi jaleta 
+	{marche: accepted}
+	{universitaly: pending}
+
+- wiesa robsoso 486
+	{marche: done}
+	{universitaly: pending} - password not changed
+
+- Yordanos deribe
+	_ielts
+	{messina: accepted}
 	{universitaly: pending}
 
 - zemicahel zeru
