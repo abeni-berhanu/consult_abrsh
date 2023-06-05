@@ -1,5 +1,3 @@
-
-
 - abenezer adefris
 	_duolingo 110
 	{marche: accepted}
@@ -23,10 +21,6 @@
 	{marche: accepted}
 	{cassino : doing} industrial
 	{universitaly: pending}	
-
-- genet getachew
-	{marche: accepted}
-	{universitaly: pending}
 
 - heran bogale]
 	_masters
@@ -59,28 +53,13 @@
 	{marche: accepted}
 	{universitaly: pending}
 
-- yomiyu alemayehu
-	{marche: accepted}
-	{universitaly: pending}
-
-- webi jaleta 
-	{marche: accepted}
-	{universitaly: pending}
-
 - wiesa robsoso 486
 	{marche: done}
 	{universitaly: pending} - password not changed
 
-- Yordanos deribe
-	_ielts
-	{messina: accepted}
+- yomiyu alemayehu
+	{marche: accepted}
 	{universitaly: pending}
-
-- zemicahel zeru
-	_duolingo 115
-	{marche: accepted} - mar 18
-	{universitaly: pending}
-	
 
 
 
@@ -101,11 +80,11 @@
 
 - amenti daniel
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 	
 - bethelhem embibel  
 	{marche: accepted}
-	{universitaly: done} 
+	{universitaly: accepted} 
 
 - biruktawit daniel
 	{marche: accepted}
@@ -129,6 +108,10 @@
 	{marche: accepted}
 	{universitaly: accepted}
 
+- genet getachew
+	{marche: accepted}
+	{universitaly: done}
+
 - hailemelekot allo
 	{marche: accepted}
 	{universitaly: accepted}	
@@ -143,7 +126,7 @@
 
 - makida yitbarek
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 - mikiyas shimels
 	{marche: accepted}
@@ -175,7 +158,10 @@
 	{universitaly: accepted}
 	
 - tamirat bekele
-	recommendation
+	{marche: accepted}
+	{universitaly: accepted}
+
+- webi jaleta 
 	{marche: accepted}
 	{universitaly: done}
 
@@ -185,9 +171,19 @@
 
 - yohannes jima
 	{marche: accepted}
-	{universitaly: done}
+	{universitaly: accepted}
 
 
 - Yonnas getnet 487
 	{marche: accepted}
 	{universitaly: done}
+
+- Yordanos deribe
+	_ielts
+	{messina: accepted}
+	{universitaly: done}
+
+- zemicahel zeru
+	{marche: accepted}
+	{universitaly: done}
+	

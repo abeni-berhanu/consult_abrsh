@@ -41,15 +41,12 @@
 	{marche: done}
 	{universitaly: pending}
 
+- timotiwos natnael
+	
 - tsion andarge		//
 	_ielts
 	cv
 	{messina: done}
-	{universitaly: pending}
-
-- yakob yewendwosen 330		//
-	_ielts
-	{messina: } account already present
 	{universitaly: pending}
 
 - yiheyis alemu 	//
