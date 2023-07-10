@@ -1,0 +1,148 @@
+- abdurehman mohamedsabir
+	{camerino: accepted}
+	{universitaly: accepted}
+
+- abenezer tesfaye
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- amanuel wogene
+	{marche: accepted} PASSED
+	{universitly: accepted}
+	{Cimea: marche: accepted}
+
+
+- amenti daniel
+	{marche: accepted}
+	{universitaly: accepted}
+	
+- bethelhem embibel  
+	{marche: accepted} PASSED
+	{universitaly: accepted} 
+	{Cimea: camerino: waiting}
+
+- biruktawit daniel
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- bonsa debele
+	{marche: accepted}
+	{universitaly: accepted}
+
+- degsera girmaw
+	_duolingo 115
+	_SAT
+	{camerino: accepted}
+	{universitaly: accepted}
+
+- degu samuel 
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- Ersom solomon
+	{messina: accepted}
+	{universitaly: done}
+	
+- gedion daniel 
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- genet getachew
+	{marche: accepted}
+	{universitaly: done}
+
+- hailemelekot allo
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}	
+
+- ikran abdirashid
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: marche: accepted}
+
+
+- mahlet zelalem
+	{marche: accepted} PASSED
+	{universitaly: accepted} - recovery email not changed
+	{Cimea: marche: accepted}
+
+- makida yitbarek
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: marche: accepted}
+
+- mikiyas shimels
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- nebil mohammod
+	_masters
+	{camerino: accepted}
+	{universitaly: accepted}
+	{Cimea: marche: waiting}
+
+
+- sadam kedir
+	{camerino: accepted}
+	{universitaly: accepted}
+
+- samrawit debebe
+	{messina: accepted}
+	{universitaly: done}
+	{Cimea: camerino: waiting}
+
+- saliha haji 
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- samuel wondesen
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- sesen mesfin
+	{marche: accepted}
+	{universitaly: done}
+	{Cimea: camerino: waiting}
+
+- simret mebratu
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+	
+- tamirat bekele
+	{marche: accepted} PASSED
+	{universitaly: accepted}
+	{Cimea: camerino: waiting}
+
+- webi jaleta 
+	{marche: accepted}
+	{universitaly: done}
+
+- yared birhanu
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: marche: waiting}
+
+
+- yohannes jima
+	{marche: accepted}
+	{universitaly: accepted}
+	{Cimea: marche: accepted}
+
+
+- Yonnas getnet 487
+	{marche: accepted}
+	{universitaly: done}
+
+- zemicahel zeru
+	{marche: accepted}
+	{universitaly: done}
+	

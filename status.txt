@@ -1,16 +1,7 @@
 
-- alazar zerihun	//
-	{marche: done}
-	{universitaly: pending}
-
 - asmamaw tamiru 441
 	recommendation
 	{marche: done}
-
-- esrom solomon		//
-	_ielts
-	{messina: done}
-	{universitaly: pending}
 
 - feven moges
 	{marche: done}
@@ -23,18 +14,10 @@
 	{ferarra: rejected}
 	{universitaly: pending}
 
-- merem alye 	//
-	_masters
-	{camerino: done}
-	
-- meryem mensur 403 //
-	_duolingo 120
-	{universitaly: pending}
-
 - michael yeshitla	//
 	_sat
 	_duolingo
-	{cassino: doing} data science
+	{cassino: done} data science
 	{marche: rejected}
 
 - nuhamin gebreselasie
